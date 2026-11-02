@@ -26,6 +26,31 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 | **KyleDaemon MVP** | Original source baseline and reference foundation |
 | **In Utero** | Full-stack reference application demonstrating interoperability |
 
+## Visual technology architecture
+
+```mermaid
+flowchart TB
+    subgraph Products["INDEPENDENT PRODUCT SURFACES"]
+        direction LR
+        KZ["KZip"]
+        KD["KyleDaemon"]
+        AU["KDA Audio"]
+        LM["KyleDaemon LLM"]
+        VI["Vivian Spatial"]
+    end
+    BASE["KyleDaemon MVP<br/>source baseline"] -. "heritage" .-> KD
+    KZ --> API["Product SDKs, endpoints & explicit contracts"]
+    KD --> API
+    AU --> API
+    LM --> API
+    VI --> API
+    API --> AD["Application-owned adapters & authority"]
+    AD --> REF["In Utero<br/>full-stack reference application"]
+    AD -. "possible licensed integrations" .-> OTH["Other domains<br/>(not claimed as delivered)"]
+```
+
+This is an **integration overview**, not a runtime dependency diagram. Each product remains independently owned, and In Utero is an application consuming the stack—not the stack itself. [Explore the visual architecture and product boundaries](ARCHITECTURE_OVERVIEW.md).
+
 ## How the products fit together
 
 Independent providers expose capabilities through their own endpoints and SDK contracts. Adapters connect these capabilities to a consumer application without transferring product ownership or application authority.
