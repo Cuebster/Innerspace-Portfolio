@@ -13,6 +13,8 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 
 - [Engineering Evidence — Accepted Checkpoints and Integrity References](ENGINEERING_EVIDENCE.md)
 - [Licensing, Rights, and Controlled Access](LICENSING_AND_ACCESS.md)
+- [Potential Real-World Robotics Applications — Concept, Not Deployment](ROBOTICS_APPLICATION_CONCEPT.md)
+- [Demonstration Evidence Plan — Media Review and Disclosure Gates](DEMONSTRATION_EVIDENCE_PLAN.md)
 
 ## Technology Portfolio
 
@@ -56,6 +58,10 @@ This is an **integration overview**, not a runtime dependency diagram. Each prod
 Independent providers expose capabilities through their own endpoints and SDK contracts. Adapters connect these capabilities to a consumer application without transferring product ownership or application authority.
 
 **In Utero** is a UE/Cesium-based reference implementation demonstrating interoperability. It is not the reason the independent infrastructure products exist, and its game-domain acceptance does not authorize physical-world operations.
+
+## Candidate real-world applications
+
+A supervised **robotics-assisted moving and materials-handling service** is one potential application for independently licensed Innerspace components. This is a future integration concept, **not an accepted physical robot deployment or workplace safety claim**. Real hardware requires separate sensing, control, protective systems, risk assessment and field validation. See the [robotics application concept](ROBOTICS_APPLICATION_CONCEPT.md).
 
 ## Engineering demonstration
 
