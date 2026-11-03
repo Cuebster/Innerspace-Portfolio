@@ -68,6 +68,8 @@ Build220 and Build221 established documented integration, packaging, and reconci
 
 See the [engineering evidence overview](ENGINEERING_EVIDENCE.md) for the accepted scope and integrity references. The underlying verification receipts are retained privately and have not been presented here for independent public inspection.
 
+**Video and screenshot evidence:** [Owner-maintained Innerspace / In Utero development media archive on Facebook](https://www.facebook.com/KyleDanielWebster). Original footage and images remain at their existing source; this portfolio does not duplicate the media. Facebook visibility may depend on account and post access settings.
+
 ## Commercial positioning and availability
 
 Innerspace is presented as proprietary technology intended for **controlled commercial licensing and authorized technical evaluation**. Publication of a product description, screenshot, or engineering summary is not permission to use, reproduce, deploy, or redistribute the underlying software.
