@@ -1,6 +1,6 @@
 # INNERSPACE — Visual Technology Overview
 
-**Public-disclosure candidate · Proprietary architecture summary · No software distribution**
+**Corporate architecture summary · Proprietary technology · No software distribution**
 
 Innerspace brings distinct software product lines together using explicit interfaces, SDKs, adapter contracts, and owner-controlled execution boundaries. The products retain their own identity, responsibilities, state, and development histories. **In Utero is one demonstrated application of the stack—not the reason the infrastructure products exist.**
 
