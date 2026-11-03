@@ -53,4 +53,4 @@ A proposed integration requires **new engineering and evidence**, including:
 
 Potential licensees could evaluate selected Innerspace endpoints and SDK adapters under negotiated terms, using their own robot control systems and safety infrastructure. This portfolio contains no production hardware configuration, actuator commands, proprietary source, SDK implementations, or field deployment instructions.
 
-See [Architecture Overview](ARCHITECTURE_OVERVIEW.md), [Engineering Evidence](ENGINEERING_EVIDENCE.md), and [Licensing and Access](LICENSING_AND_ACCESS.md). For what demonstrations may be shown publicly, see [Demonstration Evidence Plan](DEMONSTRATION_EVIDENCE_PLAN.md).
+See [Architecture Overview](ARCHITECTURE_OVERVIEW.md), [Engineering Evidence](ENGINEERING_EVIDENCE.md), and [Licensing and Access](LICENSING_AND_ACCESS.md). For portfolio-level demonstrations and external source links, see [Development Media and Soundtrack](README.md#development-media-and-soundtrack). These simulation examples are not evidence of physical-robot certification.
