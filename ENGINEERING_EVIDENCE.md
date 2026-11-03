@@ -1,6 +1,6 @@
 # INNERSPACE — Engineering Evidence and Verification
 
-**Public-disclosure candidate | Proprietary software | Documentation only**
+**Private corporate evidence summary | Proprietary software | Documentation only**
 
 This page describes *specific internally accepted engineering checkpoints* for the Innerspace software infrastructure. The underlying products, runtime artifacts, detailed receipts, SDK implementations, and engineering records are not publicly distributed. The checkpoints are not claims of independent third-party certification.
 
