@@ -49,7 +49,7 @@ A practical next step for an interested party is a scoped discussion with the ri
 ## Existing development media
 
 - [Owner-maintained Facebook development videos and screenshots](https://www.facebook.com/KyleDanielWebster) — external source archive; individual posts may require Facebook access.
-- [In Utero theme-music playlist on YouTube Music](https://music.youtube.com/playlist?list=PLW6M-9Tq8S70) — creator-maintained music presentation; this link does not imply that all tracks are integrated into the live game.
+- [IN UTERO — Martian Lemonade on YouTube Music](https://music.youtube.com/playlist?list=PLH9RptlOAhk4) — 15 game tracks, 42 minutes, curated by the creator; not a claim of live game integration.
 - [IN UTERO — Martian Lemonade: album files on Google Drive](https://drive.google.com/drive/folders/1LpsiEei76iLl5-PxSwKIiqCnoRcK7y8M?usp=sharing) — owner-provided stream/download location, subject to sharing settings; it does not imply game integration.
 
 These are links to existing external material, **not** copies or independently audited demonstrations. Their availability and contents are controlled by the external platforms and owner.
