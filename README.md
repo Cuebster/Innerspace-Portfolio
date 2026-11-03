@@ -11,6 +11,7 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 
 ### Portfolio navigation
 
+- [Executive Overview — Corporate Technology Brief](EXECUTIVE_OVERVIEW.md)
 - [Engineering Evidence — Accepted Checkpoints and Integrity References](ENGINEERING_EVIDENCE.md)
 - [Licensing, Rights, and Controlled Access](LICENSING_AND_ACCESS.md)
 - [Potential Real-World Robotics Applications — Concept, Not Deployment](ROBOTICS_APPLICATION_CONCEPT.md)
@@ -26,6 +27,12 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 | **Vivian** | Spatial reference infrastructure, mapping and coordinate-aware SDK |
 | **KyleDaemon MVP** | Original source baseline and reference foundation |
 | **In Utero** | Full-stack reference application demonstrating interoperability |
+
+## Business and integration proposition
+
+Innerspace provides a set of **independently managed infrastructure products** that can be evaluated and integrated through defined SDKs, endpoints and application-owned adapters. The combined reference implementation demonstrates that these boundaries can coexist within a demanding simulation environment, without claiming that the same integration is already certified for unrelated industries.
+
+**For business and technical reviewers:** start with the [Executive Overview](EXECUTIVE_OVERVIEW.md) for capabilities, evidence boundaries and potential evaluation pathways. The portfolio is private, documentation-only and does not grant software access by itself.
 
 ## Visual technology architecture
 
@@ -68,7 +75,12 @@ Build220 and Build221 established documented integration, packaging, and reconci
 
 See the [engineering evidence overview](ENGINEERING_EVIDENCE.md) for the accepted scope and integrity references. The underlying verification receipts are retained privately and have not been presented here for independent public inspection.
 
-**Video and screenshot evidence:** [Owner-maintained Innerspace / In Utero development media archive on Facebook](https://www.facebook.com/KyleDanielWebster). Original footage and images remain at their existing source; this portfolio does not duplicate the media. Facebook visibility may depend on account and post access settings.
+## Development media and soundtrack
+
+- **Existing engineering videos and screenshots:** [Owner-maintained Innerspace / In Utero development media on Facebook](https://www.facebook.com/KyleDanielWebster). Footage and images stay at the original source; access to individual posts depends on Facebook visibility settings.
+- **In Utero theme music:** [Creator-maintained YouTube Music playlist](https://music.youtube.com/playlist?list=PLW6M-9Tq8S70). The creator reports approximately 18 tracks / 50 minutes as of November 2026. This is music for the project, not a claim that the playlist is already managed by the live game Director.
+
+These external links are for presentation and context, not independent certification or software distribution.
 
 ## Commercial positioning and availability
 
