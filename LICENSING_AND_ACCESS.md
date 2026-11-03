@@ -22,8 +22,8 @@ Potential technical partners may request consideration for controlled evaluation
 
 Any evaluation, source access, SDK distribution or commercial licensing is subject to separately agreed terms.
 
-## Public Documentation
+## Portfolio Documentation
 
-The public portfolio is provided for informational and technical presentation purposes.
+This portfolio is provided for informational and technical presentation purposes. Access to these documents does not grant access to product implementations.
 
 No open-source license or unrestricted software-use authorization is granted by this documentation.
