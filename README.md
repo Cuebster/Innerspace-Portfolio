@@ -14,7 +14,6 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 - [Engineering Evidence — Accepted Checkpoints and Integrity References](ENGINEERING_EVIDENCE.md)
 - [Licensing, Rights, and Controlled Access](LICENSING_AND_ACCESS.md)
 - [Potential Real-World Robotics Applications — Concept, Not Deployment](ROBOTICS_APPLICATION_CONCEPT.md)
-- [Demonstration Evidence Plan — Media Review and Disclosure Gates](DEMONSTRATION_EVIDENCE_PLAN.md)
 
 ## Technology Portfolio
 
