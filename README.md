@@ -26,6 +26,7 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 | **KyleDaemon LLM** | Memory client/workbench, source selection and endpoint integration |
 | **Vivian** | Spatial reference infrastructure, mapping and coordinate-aware SDK |
 | **KyleDaemon MVP** | Original source baseline and reference foundation |
+| **Houston** | Signed operator control, durable requests, reconnect and worker lifecycle over KZip |
 | **In Utero** | Full-stack reference application demonstrating interoperability |
 
 ## Business and integration proposition
@@ -47,6 +48,8 @@ flowchart TB
         VI["Vivian Spatial"]
     end
     BASE["KyleDaemon MVP<br/>source baseline"] -. "heritage" .-> KD
+    KZ --> HOU["Houston · operator control"]
+    HOU --> API
     KZ --> API["Product SDKs, endpoints & explicit contracts"]
     KD --> API
     AU --> API
@@ -64,6 +67,8 @@ This is an **integration overview**, not a runtime dependency diagram. Each prod
 Independent providers expose capabilities through their own endpoints and SDK contracts. Adapters connect these capabilities to a consumer application without transferring product ownership or application authority.
 
 **In Utero** is a UE/Cesium-based reference implementation demonstrating interoperability. It is not the reason the independent infrastructure products exist, and its game-domain acceptance does not authorize physical-world operations.
+
+[Houston](https://github.com/Cuebster/Houston) adds signed operator control, durable requests and recovery over KZip. In Utero uses its reference adapter for worker recall and archive. Unreal and Cesium retain world authority.
 
 ## Candidate real-world applications
 

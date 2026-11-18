@@ -20,6 +20,7 @@ This is a presentation of existing products, internally accepted engineering che
 | **KyleDaemon LLM** | Source-selected memory client/workbench and selected export | Controlled context selection and operator-facing tools |
 | **Vivian** | Spatial-reference SDK and endpoint, frame/unit-aware context | Coordinate and mapping support without claiming control of the consumer |
 | **KyleDaemon MVP** | Preserved original source baseline | Product heritage and reproducible source identity; not a separate newly accepted runtime |
+| **Houston** | Signed operator control and recoverable worker lifecycle over KZip | Reference path for reconnect, recovery, recall and archive through an application adapter |
 | **In Utero** | Unreal Engine/Cesium multiplayer game and simulation | Reference consumer demonstrating product integration in a simulated world |
 
 ## Why the architecture matters
@@ -37,6 +38,8 @@ Build220 documented selected full-stack integration. Build221 R1 established an 
 In Utero demonstrates integration in the game/simulation domain. New gameplay and robotics-simulation work should be evaluated against its own test evidence; those demonstrations do **not** establish that any physical robot is deployed, certified, or safe to operate.
 
 Detailed scope and retained receipt hashes are in [Engineering Evidence](ENGINEERING_EVIDENCE.md). The integration diagram and ownership rules are in [Architecture Overview](ARCHITECTURE_OVERVIEW.md).
+
+Houston was verified independently for signed administration and with In Utero for worker lifecycle. A new domain would need an adapter for its own authority and state model.
 
 ## Potential commercial evaluation paths
 

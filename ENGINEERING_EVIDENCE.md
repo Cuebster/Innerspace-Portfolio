@@ -14,6 +14,7 @@ This page describes *specific internally accepted engineering checkpoints* for t
 | **KyleDaemon Audio (KDA)** | Accepted independent native audio endpoint, SDK, and bridge-adapter package. | No general real-time performance or production certification is implied. |
 | **Shared SDK/adapter contracts** | Accepted integration contracts for capability composition, workers, client adapters, server responsibilities, and endpoint mapping. | The contracts do not transfer ownership, execution authority, or application state authority. |
 | **Product/source reconciliation** | Verified independent product/source histories and declared source identities against the accepted Build221 publication; KZip and Audio standalone roots reconciled separately. | Source mirrors do not necessarily contain a self-sufficient runtime distribution. |
+| **Houston H6** | Native signed admin replay, SDK 0.1.0, reconnect and recovery through the In Utero reference adapter, with one activation, one retirement and lease release. | Windows reference-world trial with an isolated catalogue and a standard test operator. |
 | **In Utero reference application** | Game-domain integration demonstrated with independently owned Innerspace interfaces in a UE/Cesium environment. | The game is a reference consumer, not the definition of the infrastructure. |
 
 These descriptions reflect the accepted Build220/Build221 documentation and retained records. Ongoing development and separately demonstrated features have their own acceptance scope.
@@ -28,6 +29,8 @@ The following SHA-256 values identify accepted receipt files documented in the B
 | Product/game source and documentation reconciliation | `03dc7317946efb12187d87a10a74778ed5c1214158261ef6080afce03209b798` |
 | KZip and Audio standalone package/root reconciliation | `f02e80a376f5b4c03ede97731973f93b6b110ee055c8276e5d7bc284664257b9` |
 | Audio historical layout reconciliation | `94c7e17be1701abfc798ccdab5dd1fc11243f2adcde2d626db1edeed88228c04` |
+| Houston H6 standalone administration | `68add71d8b49b27b3d038c8cdfc077288d08efdc32aed651835c9a8be4a5a0d3` |
+| Houston H6 In Utero adapter parity | `09ebdc857ccb8897462ec0c08f9838ee8e9333f8c120b7f8bace37cfdf77bbee` |
 
 ## Disclosure and evaluation boundary
 

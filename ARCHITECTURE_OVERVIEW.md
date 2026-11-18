@@ -28,6 +28,8 @@ flowchart TB
         IFACES --> CONTRACT --> ADAPT
     end
 
+    KZ --> HOU["Houston · operator control"]
+    HOU --> IFACES
     KZ --> IFACES
     KD --> IFACES
     KDA --> IFACES
@@ -51,6 +53,21 @@ flowchart TB
 
 **Diagram interpretation:** The arrows show an architectural *integration pattern*, not mandatory runtime dependencies between every product. Consumers use the capabilities they require. No arrow represents a transfer of software ownership, authorization, or authoritative application state.
 
+## Houston and the reference world
+
+```mermaid
+flowchart TB
+    H["Houston · operator policy and journal"]
+    K["KZip · signed transport"]
+    A["In Utero · reference adapter"]
+    U["Unreal / Cesium · world authority"]
+    R["KZip Ark · snapshots"]
+    H <-->|"requests and receipts"| K
+    K <-->|"typed operations"| A
+    A <-->|"world outcomes"| U
+    A <-->|"archive and restore"| R
+```
+
 ## Independent product responsibilities
 
 | Repository / product line | Documented responsibility | Delivery distinction |
@@ -61,6 +78,7 @@ flowchart TB
 | **KyleDaemon LLM** | Source-selected memory client/workbench, verified endpoint mapping, and selected export. | Published source/interfaces; offline runtime dependencies remain distinct. |
 | **Vivian** | Spatial/reference-context SDK and endpoint with frame/unit-aware mapping. | Published source/interfaces; context is non-authoritative to the consuming application. |
 | **KyleDaemon MVP** | Original source baseline and reference foundation. | Preserved source baseline; **not** an independently accepted new runtime endpoint. |
+| **Houston** | Authorized operator requests, durable queue, reconnect and recovery through KZip. | SDK 0.1.0 and In Utero reference adapter verified on Windows. |
 | **In Utero** | UE/Cesium reference application using independent product adapters. | Demonstrated integration; not a distribution of the suite or an authorization for physical-world operation. |
 
 ## Integration rules that matter
