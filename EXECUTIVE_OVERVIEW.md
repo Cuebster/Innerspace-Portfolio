@@ -1,6 +1,6 @@
 # INNERSPACE — Executive Technology Overview
 
-**Proprietary modular software infrastructure | Private corporate portfolio | November 2026**
+**Proprietary modular software infrastructure | Documentation-only technology portfolio | November 2026**
 
 ## Executive summary
 
