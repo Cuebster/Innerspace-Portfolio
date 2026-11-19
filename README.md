@@ -33,7 +33,7 @@ Its architecture uses product-owned capabilities, SDKs, adapters, endpoints and 
 
 Innerspace provides a set of **independently managed infrastructure products** that can be evaluated and integrated through defined SDKs, endpoints and application-owned adapters. The combined reference implementation demonstrates that these boundaries can coexist within a demanding simulation environment, without claiming that the same integration is already certified for unrelated industries.
 
-**For business and technical reviewers:** start with the [Executive Overview](EXECUTIVE_OVERVIEW.md) for capabilities, evidence boundaries and potential evaluation pathways. The portfolio is private, documentation-only and does not grant software access by itself.
+**For business and technical reviewers:** start with the [Executive Overview](EXECUTIVE_OVERVIEW.md) for capabilities, evidence boundaries and potential evaluation pathways. This is a documentation-only portfolio; implementation repositories and underlying verification records remain private, and this presentation does not grant software access.
 
 ## Visual technology architecture
 
