@@ -85,6 +85,7 @@ See the [engineering evidence overview](ENGINEERING_EVIDENCE.md) for the accepte
 - **Existing engineering videos and screenshots:** [Owner-maintained Innerspace / In Utero development media on Facebook](https://www.facebook.com/KyleDanielWebster). Footage and images stay at the original source; access to individual posts depends on Facebook visibility settings.
 - **IN UTERO — Martian Lemonade (15 game tracks, 42 minutes):** [Listen on YouTube Music](https://music.youtube.com/playlist?list=PLH9RptlOAhk4). Creator-curated game soundtrack playlist. This music archive does not imply that the tracks are integrated into the live game Director.
 - **Martian Lemonade — full-album files:** [Owner-hosted Google Drive stream and download folder](https://drive.google.com/drive/folders/1LpsiEei76iLl5-PxSwKIiqCnoRcK7y8M?usp=sharing). The owner describes these as high-bitrate downloadable tracks; file access depends on Drive sharing permissions.
+- **IN UTERO — Second Album: Work-in-Progress Preview:** [Listen on YouTube Music](https://music.youtube.com/playlist?list=PLAIw68UFVjE8) · [Play/download on Google Drive](https://drive.google.com/drive/folders/1i-elKuDKMrIfDurgFTl9oquByZsF6I8W?usp=sharing). An early preview of the second In Utero album, currently approximately halfway complete. More tracks are coming; the final track selection and running order are still in development.
 
 These external links are for presentation and context, not independent certification or software distribution.
 
