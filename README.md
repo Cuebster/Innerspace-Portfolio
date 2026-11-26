@@ -70,6 +70,10 @@ Independent providers expose capabilities through their own endpoints and SDK co
 
 [Houston](https://github.com/Cuebster/Houston) adds signed operator control, durable requests and recovery over KZip. In Utero uses its reference adapter for worker recall and archive. Unreal and Cesium retain world authority.
 
+## Creative reference application — Red Gray collectibles
+
+IN UTERO's approved creative roadmap explores a marble minigame, physical collectibles, illustrated Planetary Almanacs and living AI character cards as potential extensions of existing infrastructure. See [Red Gray mythology and collectible experiences](REDGRAY_COLLECTIBLE_CONCEPT.md). These are proposed experiences, not delivered products or verified engineering milestones.
+
 ## Candidate real-world applications
 
 A supervised **robotics-assisted moving and materials-handling service** is one potential application for independently licensed Innerspace components. This is a future integration concept, **not an accepted physical robot deployment or workplace safety claim**. Real hardware requires separate sensing, control, protective systems, risk assessment and field validation. See the [robotics application concept](ROBOTICS_APPLICATION_CONCEPT.md).
